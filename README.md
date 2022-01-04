@@ -1,5 +1,7 @@
 # ПРОЕКТ «ИГРА НА PYGAME»
 
+![alt text](https://github.com/makar-kashin/project-26/blob/main/intro.png?raw=true)
+
 ## Название: 
 >“Project 26” (платформер-аркада)
 
